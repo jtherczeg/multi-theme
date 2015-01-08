@@ -3,6 +3,8 @@ Multi
 
 Multi is a free, responsive, Bootstrap 3 powered theme for corporate websites, ported from JoomShaper's popular HTML template for OctoberCMS, without any built-in 3rd party extensions.
 
+![Screenshot](https://raw.githubusercontent.com/jtherczeg/multi-theme/master/assets/images/theme-preview.png)
+
 Features
 --------
 * Responsive design
